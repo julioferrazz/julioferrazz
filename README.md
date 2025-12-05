@@ -21,7 +21,7 @@ Sou desenvolvedor **Full-Stack** em formação, apaixonado por tecnologia e semp
 
 ## 📊 Estatísticas do Github
 
-![Julio Ferrazz GitHub Stats](https://github-readme-stats.vercel.app/api?username=julioferrazz&show_icons=true&theme=radical&hide_title=true)
+![Julio Ferrazz GitHub Stats](https://github-readme-stats-blush-iota-49.vercel.app/api?username=julioferrazz&show_icons=true&theme=radical&hide_title=true)
 
 ---
 
