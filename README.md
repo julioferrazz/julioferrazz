@@ -7,7 +7,7 @@
 
 ## 👨‍💻 Sobre mim
 
-Sou desenvolvedor **Full-Stack** em formação, apaixonado por tecnologia e sempre buscando aprender algo novo. Formado pela ETEC Parque Belém e atualmente estudante de **Análise e Desenvolvimento de Sistemas** na FATEC Zona Leste, dedico meus estudos para aprimorar minhas habilidades e acompanhar as tendências do mercado.
+Sou desenvolvedor **Back-End** em formação, apaixonado por tecnologia e com forte interesse em **Engenharia de Software** e **Engenharia de Dados**. Formado pela ETEC Parque Belém e atualmente estudante de **Análise e Desenvolvimento de Sistemas** na FATEC Zona Leste, dedico meus estudos ao desenvolvimento de soluções robustas e ao acompanhamento das tendências do mercado.
 
 ## 🧠 Conhecimento
 
